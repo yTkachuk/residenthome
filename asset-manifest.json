@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/residenthome/static/css/main.f464f9b8.chunk.css",
+    "main.js": "/residenthome/static/js/main.f03e32e5.chunk.js",
+    "main.js.map": "/residenthome/static/js/main.f03e32e5.chunk.js.map",
+    "runtime-main.js": "/residenthome/static/js/runtime-main.7cda86de.js",
+    "runtime-main.js.map": "/residenthome/static/js/runtime-main.7cda86de.js.map",
+    "static/js/2.739265d3.chunk.js": "/residenthome/static/js/2.739265d3.chunk.js",
+    "static/js/2.739265d3.chunk.js.map": "/residenthome/static/js/2.739265d3.chunk.js.map",
+    "static/js/3.7bf7e722.chunk.js": "/residenthome/static/js/3.7bf7e722.chunk.js",
+    "static/js/3.7bf7e722.chunk.js.map": "/residenthome/static/js/3.7bf7e722.chunk.js.map",
+    "index.html": "/residenthome/index.html",
+    "static/css/main.f464f9b8.chunk.css.map": "/residenthome/static/css/main.f464f9b8.chunk.css.map",
+    "static/js/2.739265d3.chunk.js.LICENSE.txt": "/residenthome/static/js/2.739265d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cda86de.js",
+    "static/js/2.739265d3.chunk.js",
+    "static/css/main.f464f9b8.chunk.css",
+    "static/js/main.f03e32e5.chunk.js"
+  ]
+}
