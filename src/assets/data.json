@@ -1,0 +1,26 @@
+{
+    "name": "",
+    "projectsDetails": [
+        {
+            "id": 1,
+            "project": "Bank",
+            "details": "qweqweqewqweqew",
+            "duration": "123",
+            "durationType": "years"
+        },
+        {
+            "id": 2,
+            "project": "Sank",
+            "details": "qweqweqewqweqew",
+            "duration": "123",
+            "durationType": "months"
+        },
+        {
+            "id": 3,
+            "project": "Tank",
+            "details": "qweqweqewqweqew",
+            "duration": "123",
+            "durationType": "seconds"
+        }
+    ]
+}

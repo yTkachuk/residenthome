@@ -1,0 +1,82 @@
+.form {
+    &-body {
+        &-name {
+            input {
+                height: 40px;
+                width: 600px;
+                padding: 0 10px;
+                border-radius: 5px;
+            }
+        }
+
+        &-projects {
+            display: flex;
+            flex-direction: column;
+
+            &-title {
+                margin-bottom: 10px;
+            }
+
+            &-row {
+                display: flex;
+                flex-wrap: wrap;
+
+                input {
+                    height: 32px;
+                }
+            }
+
+            &-component {
+                display: flex;
+                padding: 5px 10px;
+                align-items: center;
+                border: 1px solid black;
+                border-radius: 5px;
+                justify-content: space-between;
+                margin-right: 20px;
+                margin-bottom: 15px;
+
+                svg {
+                    height: 20px;
+                    cursor: pointer;
+                    margin-left: 10px;
+                }
+            }
+        }
+
+        &-details {
+            display: flex;
+            margin-top: 30px;
+            align-items: center;
+
+            &-new {
+                border: 1px solid #bbbbc2;
+                background: white;
+                box-sizing: content-box;
+                border-radius: 50%;
+                cursor: pointer;
+                height: 18px;
+                width: 18px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            span {
+                margin-right: 15px;
+            }
+
+            svg {
+                height: 16px;
+                width: 16px;
+                cursor: pointer;
+            }
+        }
+
+        &-content {
+            overflow: auto;
+            height: calc(100vh - 500px);
+            padding-top: 15px;
+        }
+    }
+}
